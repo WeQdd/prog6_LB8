@@ -35,9 +35,15 @@ __Данные__
 ### Результат
 ![image](https://github.com/user-attachments/assets/fffca0cc-1134-4dfc-b6d2-f0d55e8115df)
 
+
 Выбор фото для анализа
+
+
 ![image](https://github.com/user-attachments/assets/c99338f0-37fe-474e-82f1-6e1c87a6198a)
 
+
 Полученное фото
+
+
 ![image](https://github.com/user-attachments/assets/ffa5a5ae-dd40-4616-b70d-2b31e0ab1b13)
 
